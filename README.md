@@ -1,4 +1,4 @@
-# MTH207_Course_Project
+# MTH208_Course_Project
 ##Financial Dashboard (MTH Group Project)
 This Shiny application provides a multi-tab dashboard for financial analysis. It combines technical stock analysis, Markowitz portfolio optimization, and option chain analysis with Black-Scholes (BSM) modeling, all presented in a custom gold-and-dark theme.
 
